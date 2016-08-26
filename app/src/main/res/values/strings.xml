@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Warlord.ru</string>
+    <string name="content_desc">Warlord.ru - Wargaming club and store</string>
+    <string name="email">Email: warlord.ru@gmail.com</string>
+    <string name="address">Krasnoproletarskaya st. 16 bld. 1</string>
+    <string name="phone">Tel.: +7(495) 775 4280</string>
+<string name="welcome_text1">Wargames have became one of the most popular hobbies, a big part of
+    which is assembly, painting and collecting miniatures.</string>
+<string name="welcome_text2">Warlord.ru - the wargaming store, provides a wide variety of fantastic
+    miniatures, accessories and tools as well as wargaming literature and terrains.</string>
+    <string name="welcome_text3">You want to learn how to play Warhammer? How to assemble and paint
+        miniatures? You have found the right place!</string>
+    <string name="welcome_text4">We are open every day, 11 am to 11 pm.</string>
+</resources>
